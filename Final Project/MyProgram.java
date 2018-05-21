@@ -1,3 +1,4 @@
+//This work is all my own, Alex Brown
 import java.awt.event.*;
 import java.awt.*;
 import javax.swing.*;
